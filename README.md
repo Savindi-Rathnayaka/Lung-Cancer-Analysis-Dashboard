@@ -1,8 +1,6 @@
 # Lung-Cancer-Analysis-Dashboard
 An interactive Power BI dashboard for analyzing lung cancer data.
 
-# Lung Cancer Analysis Dashboard
-
 ## Project Overview
 
 This project presents an interactive Power BI dashboard developed to explore and analyze a lung cancer dataset.
