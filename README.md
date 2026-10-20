@@ -1,40 +1,16 @@
-# Lung-Cancer-Analysis-Dashboard
-An interactive Power BI dashboard for analyzing lung cancer data.
-
-## Project Overview
-
-This project presents an interactive Power BI dashboard developed to explore and analyze a lung cancer dataset.
-
-## Objectives
-
-* Analyze the distribution of lung cancer cases.
-* Identify patterns across different demographic groups.
-* Visualize important dataset characteristics using interactive charts.
-* Present data insights through an interactive dashboard.
-
-## Tools & Technologies
-
-* Microsoft Power BI
-* Data Cleaning and Transformation
-* Data Visualization
+# Lung Cancer Analysis Dashboard
 
 ## Dashboard Preview
 
-Add your dashboard screenshot here.
+![Lung Cancer Dashboard](dashboard_preview.png)
 
-## Key Features
+## Project Overview
 
-* Interactive visualizations
-* KPI cards
-* Category comparisons
-* Filters and slicers
+An interactive Power BI dashboard developed to analyze lung cancer data using data visualization techniques.
 
-## Files Included
+## Tools Used
 
-* `Lung_Cancer_Analysis_Dashboard.pbix` – Power BI report file.
-* `dashboard_preview.png` – Dashboard screenshot.
+* Microsoft Power BI
+* Data Cleaning
+* Data Visualization
 
-## Author
-
-Data Science Undergraduate
-Savindi Rathnayaka
