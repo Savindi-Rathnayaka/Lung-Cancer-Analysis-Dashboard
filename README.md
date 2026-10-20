@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Lung Cancer Dashboard](https://github.com/Savindi-Rathnayaka/Lung-Cancer-Analysis-Dashboard/blob/main/dashboard_preview.png.png)
+![Lung Cancer Dashboard](https://github.com/Savindi-Rathnayaka/Lung-Cancer-Analysis-Dashboard/blob/main/dashboard_preview.png.mp4)
 
 ## Project Overview
 
